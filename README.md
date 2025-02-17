@@ -1,5 +1,3 @@
-# Computerology
-From CB radios to CPUs: Truckin' the Tech Highway
----
+# Intro
 
-# Getting Started
+## Setup
